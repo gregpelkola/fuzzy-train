@@ -1,0 +1,11 @@
+.event-details {
+    padding: 20px;
+}
+
+.event-details h2 {
+    margin-top: 0;
+}
+
+.event-details p {
+    margin: 10px 0;
+}
